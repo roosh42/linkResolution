@@ -1,0 +1,14 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server to serve a static hello.html page.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "author": "",
+  "license": "ISC"
+}
